@@ -1,0 +1,44 @@
+### Formula 1
+
+From the unit circle sin^2x +cos^2 x=1
+That's pretty intuitive.
+
+### Formula 2
+
+divide both sides by cos^2x to get,
+sin^2x/cos^2x= 1/cos^2x
+sin/cos=tan and so sin^2x/cos ^2x= tan ^2x.
+1/cos^2x=sec^2x
+so, tan^2x +1= sec^2x.
+
+### Formula 3
+
+divide both sides by sin^2x to get,
+cos^2x/sin^2x= 1/sin^2x
+cos/sin=cot and so cos^2x/sin ^2x= cot ^2x.
+1/sin^2x=cosec^2x
+so, cot^2x +1= cosec^2x.
+
+# Formula 4 and 5
+These two come from the definition of even and odd functions.
+Cos is even, it's a rule of this great universe.
+Sin is odd its a rule of this great universe.
+a function is even if F(x)= F(-x).
+A function is odd if F(x)=- F (x)
+cos x=cos(-x)
+sin x= -sin x
+
+ #Formula 6 AND 7
+
+sin x= sin x+2pi
+cos x= cos x +2pi
+since by adding 2 pi, we are doing circumference navigation around the circle and we will get the same result.
+
+#Formula 8
+sine is sumthing that switches- mnemonic
+sin(x+y)= sinxcosy+cosxsiny
+
+cosine is kinda opposite of this
+cos (x+y)= cosxcosy-sinxsiny
+
+
