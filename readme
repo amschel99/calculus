@@ -49,7 +49,9 @@ Cos(x+x)=cosxsinx+sinxsinx
 Cos2x= cos^2x+sin^2x
 tan(x+y)= tanx + tany/ 1- tanxtany
 tan(x+x)= 2tanx/1- tan^2x
-
+Sin^2x= 1/2[1-cos2x]
+Cos ^2x= 1/2[1+cos2x]
+For tan you can derive from the above
 
 
 
