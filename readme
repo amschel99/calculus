@@ -41,4 +41,12 @@ sin(x+y)= sinxcosy+cosxsiny
 cosine is kinda opposite of this
 cos (x+y)= cosxcosy-sinxsiny
 
+# Double Angle Formulas
+Sin(x+x)= sinxcosx+cosxsinx
+Sin2x=2sinxcosx
+
+Cos(x+x)=cosxsinx+sinxsinx
+Cos2x= cos^2x+sin^2x
+
+
 
