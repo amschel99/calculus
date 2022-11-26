@@ -47,6 +47,9 @@ Sin2x=2sinxcosx
 
 Cos(x+x)=cosxsinx+sinxsinx
 Cos2x= cos^2x+sin^2x
+tan(x+y)= tanx + tany/ 1- tanxtany
+tan(x+x)= 2tanx/1- tan^2x
+
 
 
 
